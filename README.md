@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey hey! 👋
 - 🔭 I’m currently working on an analysis of the move from in-person mental health care to virtual care in Canada.
 - 🌱 I’m currently learning R
 - 📫 How to reach me: chloe.thierstein@mail.utoronto.ca
