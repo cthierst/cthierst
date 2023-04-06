@@ -1,7 +1,7 @@
 ### Hey hey! 👋
+- 👩🏼‍🎓 I'm a student at the University of Toronto 
 - 🔭 I’m currently working on an analysis of the move from in-person mental health care to virtual care in Canada.
 - 🌱 I’m currently learning R
-- 👩🏼‍🎓 I'm a student at the University of Toronto 
 - 📫 How to reach me: chloe.thierstein@mail.utoronto.ca
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have 2 dachshunds 🐶
