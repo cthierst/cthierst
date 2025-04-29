@@ -1,6 +1,6 @@
 ### Hey hey! 👋
 - 👩🏼‍🎓 I'm a student at the University of Toronto 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, R + SQL
 - 📫 How to reach me: chloe.thierstein@mail.utoronto.ca
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love dachshunds 🐶
@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an analysis of the move from in-person mental health care to virtual care in Canada.
+- 🔭 I’m currently working on a comparison between World of Science and OpenAlex data
 - 🌱 I’m currently learning R
 - 📫 How to reach me: chloe.thierstein@mail.utoronto.ca
 - 😄 Pronouns: she/her
