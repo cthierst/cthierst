@@ -1,6 +1,7 @@
 ### Hey hey! 👋
 - 👩🏼‍🎓 I'm a student at the University of Toronto 
 - 🌱 I’m currently learning Python, R + SQL
+- 🔭 I’m currently working on a comparison between World of Science and OpenAlex data
 - 📫 How to reach me: chloe.thierstein@mail.utoronto.ca
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love dachshunds 🐶
